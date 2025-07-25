@@ -1,0 +1,58 @@
+{
+  "Dhvani": [
+    {
+      "date": "2025-07-12 11:01:02",
+      "weight": 53.0,
+      "height": 2.5,
+      "bmi": 8.48,
+      "category": "Underweight"
+    },
+    {
+      "date": "2025-07-12 11:17:43",
+      "weight": 56.0,
+      "height": 2.5,
+      "bmi": 8.96,
+      "category": "Underweight"
+    },
+    {
+      "date": "2025-07-12 11:17:47",
+      "weight": 56.0,
+      "height": 2.5,
+      "bmi": 8.96,
+      "category": "Underweight"
+    },
+    {
+      "date": "2025-07-12 11:18:03",
+      "weight": 56.0,
+      "height": 2.5,
+      "bmi": 8.96,
+      "category": "Underweight"
+    },
+    {
+      "date": "2025-07-22 10:28:14",
+      "weight": 50.0,
+      "height": 2.5,
+      "bmi": 8.0,
+      "category": "Underweight"
+    }
+  ],
+  "ridham": [
+    {
+      "date": "2025-07-14 13:57:20",
+      "weight": 56.0,
+      "height": 2.5,
+      "bmi": 8.96,
+      "category": "Underweight"
+    }
+  ],
+  "user1": [],
+  "User2": [
+    {
+      "date": "2025-07-22 10:28:02",
+      "weight": 59.0,
+      "height": 2.5,
+      "bmi": 9.44,
+      "category": "Underweight"
+    }
+  ]
+}
